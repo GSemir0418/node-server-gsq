@@ -1,0 +1,16 @@
+{
+  "name": "node-server-gsq",
+  "version": "0.0.2",
+  "main": "index.js",
+  "author": "gsq",
+  "license": "MIT",
+  "bin": {
+    "ss": "index.js"
+  },
+  "devDependencies": {
+    "@types/node": "^15.12.5"
+  },
+  "files": [
+    "*.js"
+  ]
+}
